@@ -1,0 +1,17 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "My test app",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Fadi Obaji",
+    "license": "ISC",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "typescript": "^5.9.3",
+        "prettier": "^3.7.4"
+    }
+}
